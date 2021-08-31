@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vanessapgb.github.io/csb-6sbry/static/css/main.cde6f727.chunk.css",
+    "main.js": "https://vanessapgb.github.io/csb-6sbry/static/js/main.51205df0.chunk.js",
+    "main.js.map": "https://vanessapgb.github.io/csb-6sbry/static/js/main.51205df0.chunk.js.map",
+    "runtime-main.js": "https://vanessapgb.github.io/csb-6sbry/static/js/runtime-main.518ddbd6.js",
+    "runtime-main.js.map": "https://vanessapgb.github.io/csb-6sbry/static/js/runtime-main.518ddbd6.js.map",
+    "static/js/2.03c33ab1.chunk.js": "https://vanessapgb.github.io/csb-6sbry/static/js/2.03c33ab1.chunk.js",
+    "static/js/2.03c33ab1.chunk.js.map": "https://vanessapgb.github.io/csb-6sbry/static/js/2.03c33ab1.chunk.js.map",
+    "index.html": "https://vanessapgb.github.io/csb-6sbry/index.html",
+    "static/css/main.cde6f727.chunk.css.map": "https://vanessapgb.github.io/csb-6sbry/static/css/main.cde6f727.chunk.css.map",
+    "static/js/2.03c33ab1.chunk.js.LICENSE.txt": "https://vanessapgb.github.io/csb-6sbry/static/js/2.03c33ab1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.518ddbd6.js",
+    "static/js/2.03c33ab1.chunk.js",
+    "static/css/main.cde6f727.chunk.css",
+    "static/js/main.51205df0.chunk.js"
+  ]
+}
